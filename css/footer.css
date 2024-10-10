@@ -1,0 +1,25 @@
+html, body {
+    margin: 0; 
+    padding: 0; 
+    height: 100%;
+}
+
+footer {
+    background-color: #261e1c;
+    width: 100%;
+    padding: 20px; 
+    color: white;
+    box-sizing: border-box; 
+}
+
+.contact {
+    justify-content: center;
+}
+
+.contactTitle {
+    text-align: center;
+}
+
+.contact p {
+    text-align: center;
+}
